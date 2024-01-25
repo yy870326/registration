@@ -1,4 +1,1 @@
-springboot+
-SpringSecurity+
-Thymeleaf+
-JPA
+developed with Spring Boot, Spring Security, Hibernate, and Thymeleaf.
