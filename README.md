@@ -1,4 +1,4 @@
-springboot
-SpringSecurity
-Thymeleaf
+springboot+
+SpringSecurity+
+Thymeleaf+
 JPA
